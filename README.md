@@ -4,7 +4,15 @@ A machine learning-powered web application that detects fraudulent online paymen
 
 ---
 
-## Live Demo / Screenshots
+## Demo Video
+
+[![Watch the Demo](https://img.shields.io/badge/Demo-Watch%20Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1wXvb7lb2FJ4QschNRMo_t-hztyYdgg4W/view?usp=sharing)
+
+> Click the badge above or [**click here**](https://drive.google.com/file/d/1wXvb7lb2FJ4QschNRMo_t-hztyYdgg4W/view?usp=sharing) to watch the full demo video of the application.
+
+---
+
+## Live Demo / Local Setup
 
 > Run locally at **http://127.0.0.1:5000** after following the installation steps below.
 
